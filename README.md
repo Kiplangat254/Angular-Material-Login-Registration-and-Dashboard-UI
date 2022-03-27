@@ -4,8 +4,8 @@
 
 ### Prerequisites
 
-- Node js - Handbook; [here](https://git-scm.com/)
-- Git - Handbook; [here](https://nodejs.org/en/)
+- Node js - Handbook [here](https://git-scm.com/)
+- Git - Handbook [here](https://nodejs.org/en/)
 
 ### Clone repository
 
