@@ -1,19 +1,19 @@
-# Angular13-Angular-material-authentication-and-dashboard-template-ui
+# Angular-Material-Login-Registration-and-Dashboard-UI
 
 ## Development Setup
 
 ### Prerequisites
 
-- Node js - Handbook [here](https://git-scm.com/)
-- Git - Handbook [here](https://nodejs.org/en/)
+- Node js - Handbook; [here](https://git-scm.com/)
+- Git - Handbook; [here](https://nodejs.org/en/)
 
-## Clone repository
+### Clone repository
 
 ```
 git clone https://github.com/Kiplangat254/Angular-Material-Login-Registration-and-Dashboard-UI.git
 ```
 
-###Get into project directory:
+### Get into project directory:
 
 ```
 cd Angular13-Angularmaterial-authentication-and-dashboard-ui
@@ -56,10 +56,9 @@ Run the application:
 ```
 ng serve
 ```
-navigate to `http://localhost:4200/`
+### navigate to `http://localhost:4200/`
 
 ### Preview:
-
 ### Home Page:
 ![Homepage](https://user-images.githubusercontent.com/100850009/160275372-52dc575a-4bcf-4ef1-99fe-033ed0439721.PNG)
 ### Login Page:
