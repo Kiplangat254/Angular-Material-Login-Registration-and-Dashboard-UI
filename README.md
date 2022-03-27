@@ -56,7 +56,7 @@ Run the application:
 ```
 ng serve
 ```
-### navigate to `http://localhost:4200/`
+Navigate to: `http://localhost:4200/`
 
 ### Preview:
 ### Home Page:
