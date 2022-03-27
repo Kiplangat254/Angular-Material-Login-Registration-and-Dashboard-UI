@@ -1,37 +1,35 @@
 # Angular13-Angular-material-authentication-and-dashboard-template-ui
 
+## Development Setup
+
 ### Prerequisites
 
 - Node js - Handbook [here](https://git-scm.com/)
-- git - Handbook [here](https://nodejs.org/en/)
-
-### Setting Up a Project
-
-Install the Angular CLI globally:
-
-```
-npm install -g @angular/cli
-```
-
-## Development Setup
+- Git - Handbook [here](https://nodejs.org/en/)
 
 ## Clone repository
 
 ```
 git clone https://github.com/Kiplangat254/Angular-Material-Login-Registration-and-Dashboard-UI.git
 ```
-Get into project directory:
+
+###Get into project directory:
 
 ```
 cd Angular13-Angularmaterial-authentication-and-dashboard-ui
 ```
 
-### Setting Up Project
+### Setting Up The Project
 
 Install npm:
 
 ```
 npm install 
+```
+Install the Angular CLI globally:
+
+```
+npm install -g @angular/cli
 ```
 
 Install angular material, handbook [here](https://github.com/angular/components):
