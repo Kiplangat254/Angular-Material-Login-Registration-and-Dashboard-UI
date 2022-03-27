@@ -2,9 +2,8 @@
 
 ### Prerequisites
 
-- Node js
-- git
-- Angular cli
+- Node js - Handbook [here](https://git-scm.com/)
+- git - Handbook [here](https://nodejs.org/en/)
 
 ### Setting Up a Project
 
