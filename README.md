@@ -43,7 +43,7 @@ ng serve
 
 ### Preview:
 
-### Home Page:![SidenavPage](https://user-images.githubusercontent.com/100850009/160275427-5f836ebf-c314-414a-87ed-99ff84f5fbeb.PNG)
+### Home Page:
 ![Homepage](https://user-images.githubusercontent.com/100850009/160275372-52dc575a-4bcf-4ef1-99fe-033ed0439721.PNG)
 ### Login Page:
 ![LoginPage](https://user-images.githubusercontent.com/100850009/160275393-449f1366-d19c-466f-b24e-0cc41ae9da7a.PNG)
@@ -56,4 +56,4 @@ ng serve
 ### Sidenav:
 ![Sidenav](https://user-images.githubusercontent.com/100850009/160275421-a7ca2ed5-a00e-4b61-8a7e-33f85b86be8c.PNG)
 ![SidenavPage](https://user-images.githubusercontent.com/100850009/160275670-6f627db8-b1e5-4505-b7a9-f22071b33167.PNG)
-# Kiplangat254-Angular-material-login-registration-and-dashboard-ui
+
