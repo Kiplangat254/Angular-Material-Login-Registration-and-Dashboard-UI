@@ -16,19 +16,19 @@ Install npm:
 npm install 
 ```
 
-Install angular material:
+Install angular material handbook [here] (https://github.com/angular/components):
 
 ```
 ng add @angular/material
 ```
 
-Install swiper:
+Install swiper handbook [here] (https://github.com/nolimits4web/swiper):
 
 ```
 npm install swiper
 ```
 
-Install fontawesome:
+Install fontawesome handbook [here] (https://github.com/FortAwesome/Font-Awesome):
 
 ```
 npm install --save @fortawesome/fontawesome-free
@@ -43,30 +43,17 @@ ng serve
 
 ### Preview:
 
-### Home Page:
-
-![Screenshot](docs/img/HomePage.png)
-
+### Home Page:![SidenavPage](https://user-images.githubusercontent.com/100850009/160275427-5f836ebf-c314-414a-87ed-99ff84f5fbeb.PNG)
+![Homepage](https://user-images.githubusercontent.com/100850009/160275372-52dc575a-4bcf-4ef1-99fe-033ed0439721.PNG)
 ### Login Page:
-
-![Screenshot](docs/img/LoginPage.png)
-
+![LoginPage](https://user-images.githubusercontent.com/100850009/160275393-449f1366-d19c-466f-b24e-0cc41ae9da7a.PNG)
 ### Register Page:
-
-![Screenshot](docs/img/RegisterPage.png)
-
+![RegisterPage](https://user-images.githubusercontent.com/100850009/160275396-fc220e19-b38c-40f1-851c-de1a7547582f.PNG)
 ### Dashboard Page:
-
-![Screenshot](docs/img/DashboardPage.png)
-
+![DashboardPage](https://user-images.githubusercontent.com/100850009/160275402-ca4b2ea9-59a4-46dc-a78d-d7934d50862b.PNG)
 ### Autocomplete Page:
-
-![Screenshot](docs/img/AutocompletePage.png)
-
+![CityPage](https://user-images.githubusercontent.com/100850009/160275411-4304337e-39e5-4fc7-b5ff-b9eacabca2c4.PNG)
 ### Sidenav:
-
-![Screenshot](docs/img/Sidenav.png)
-
-![Screenshot](docs/img/SidenavPage.png)
-
+![Sidenav](https://user-images.githubusercontent.com/100850009/160275421-a7ca2ed5-a00e-4b61-8a7e-33f85b86be8c.PNG)
+![SidenavPage](https://user-images.githubusercontent.com/100850009/160275670-6f627db8-b1e5-4505-b7a9-f22071b33167.PNG)
 # Kiplangat254-Angular-material-login-registration-and-dashboard-ui
