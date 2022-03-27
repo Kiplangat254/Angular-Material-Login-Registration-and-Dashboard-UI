@@ -16,19 +16,19 @@ Install npm:
 npm install 
 ```
 
-Install angular material handbook [here] (https://github.com/angular/components):
+Install angular material handbook [here](https://github.com/angular/components):
 
 ```
 ng add @angular/material
 ```
 
-Install swiper handbook [here] (https://github.com/nolimits4web/swiper):
+Install swiper handbook [here](https://github.com/nolimits4web/swiper):
 
 ```
 npm install swiper
 ```
 
-Install fontawesome handbook [here] (https://github.com/FortAwesome/Font-Awesome):
+Install fontawesome handbook [here](https://github.com/FortAwesome/Font-Awesome):
 
 ```
 npm install --save @fortawesome/fontawesome-free
