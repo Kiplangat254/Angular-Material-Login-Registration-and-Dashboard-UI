@@ -2,9 +2,9 @@
 
 ### Prerequisites
 
-- Install [Node.js] which includes [Node Package Manager][npm]
-- Install git
-- Install 
+- Node js
+- git
+- Angular cli
 
 ### Setting Up a Project
 
@@ -16,6 +16,11 @@ npm install -g @angular/cli
 
 ## Development Setup
 
+## Clone repository
+
+```
+git clone https://github.com/Kiplangat254/Angular-Material-Login-Registration-and-Dashboard-UI.git
+```
 Get into project directory:
 
 ```
@@ -54,6 +59,7 @@ Run the application:
 ```
 ng serve
 ```
+navigate to `http://localhost:4200/`
 
 ### Preview:
 
