@@ -16,7 +16,7 @@ git clone https://github.com/Kiplangat254/Angular-Material-Login-Registration-an
 ### Get into project directory:
 
 ```
-cd Angular13-Angularmaterial-authentication-and-dashboard-ui
+cd Angular-Material-Login-Registration-and-Dashboard-UI
 ```
 
 ### Setting Up The Project
