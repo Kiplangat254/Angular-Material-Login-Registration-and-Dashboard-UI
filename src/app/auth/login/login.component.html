@@ -1,0 +1,24 @@
+<mat-toolbar color="primary">
+  <span>beba</span>
+</mat-toolbar>
+<div class="example-container" fxLayout="column" fxLayoutAlign="center center">
+<span class="title">LOGIN IN WITH SOCIAL ACCOUNTS</span>
+   <div class="fab">
+      <a href="#" class="fa fa-facebook"></a>
+      <a href="#" class="fa fa-twitter"></a>
+      <a href="#" class="fa fa-google"></a>
+   </div>
+   <span class="title">OR LOGIN WITH:</span>
+                <!--FORM FIELDS HERE-->
+    <mat-form-field class="full-width">
+      <mat-label>Email</mat-label>
+      <input  matInput  placeholder="Email/Username" name="email">
+    </mat-form-field>
+    <mat-form-field class="full-width">
+      <mat-label>Password</mat-label>
+      <input  matInput  placeholder="Password"  name="password">
+    </mat-form-field>  
+    <span class= "forgot">Forgot Password?  <a mat-flat-button routerLink="/reset">RESET</a></span>
+    <button mat-raised-button color="primary" class="submit">Login</button>
+    <p>New User?<a mat-flat-button routerLink="/register">SIGN UP</a></p>
+  </div>

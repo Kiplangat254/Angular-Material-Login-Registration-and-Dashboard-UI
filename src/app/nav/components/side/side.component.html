@@ -1,0 +1,68 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport
+      [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+      [mode]="(isHandset$ | async) ? 'over' : 'side'"
+      [opened]="(isHandset$ | async) === false">
+
+<img class="avatar" src="assets/user.png" />
+<h4 class="name">John Doe</h4>
+<p class="designation">Software Engineer</p>
+
+<mat-divider></mat-divider>
+    <mat-nav-list>
+      <mat-list-item [routerLink]="'profile'">
+        <mat-icon mat-list-icon >home</mat-icon>
+        <span>Profile</span>
+      </mat-list-item>
+
+      <mat-list-item [routerLink]="'contact'">
+        <mat-icon mat-list-icon>important_devices</mat-icon>
+        <span>Contact Us</span>
+      </mat-list-item>
+
+      <mat-list-item [routerLink]="'about'">
+        <mat-icon mat-list-icon>supervisor_account</mat-icon>
+        <span>About</span>
+      </mat-list-item>
+
+      <mat-list-item [routerLink]="'privacy'">
+        <mat-icon mat-list-icon >info</mat-icon>
+        <span>Privacy Policy</span>
+      </mat-list-item>
+
+      <mat-list-item [routerLink]="'terms'">
+        <mat-icon mat-list-icon>assignment_late</mat-icon>
+        <span>Terms and Conditions</span>
+      </mat-list-item>
+
+      <mat-list-item [routerLink]="'help'">
+        <mat-icon mat-list-icon>help</mat-icon>
+        <span>Help</span>
+      </mat-list-item>
+
+      <mat-divider></mat-divider>
+      
+      <mat-list-item [routerLink]="'login'">
+        <mat-icon mat-list-icon>arrow_right_alt</mat-icon>
+        <span>Logout</span>
+      </mat-list-item>
+
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+        *ngIf="isHandset$ | async">
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span>beba</span>
+    </mat-toolbar>
+    <router-outlet></router-outlet>
+    <!-- Add Content Here -->
+  </mat-sidenav-content>
+</mat-sidenav-container>
+  

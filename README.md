@@ -69,3 +69,4 @@ ng serve
 
 ![Screenshot](docs/img/SidenavPage.png)
 
+# Kiplangat254-Angular-material-login-registration-and-dashboard-ui
