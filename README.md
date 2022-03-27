@@ -6,6 +6,7 @@
 
 - Node js - Handbook [here](https://git-scm.com/)
 - Git - Handbook [here](https://nodejs.org/en/)
+- Angular cli
 
 ### Clone repository
 
@@ -25,30 +26,6 @@ Install npm:
 
 ```
 npm install 
-```
-Install the Angular CLI globally:
-
-```
-npm install -g @angular/cli
-```
-
-Install angular material, handbook [here](https://github.com/angular/components):
-
-```
-ng add @angular/material
-```
-
-Install swiper handbook, [here](https://github.com/nolimits4web/swiper):
-
-```
-npm install swiper
-```
-
-Install fontawesome handbook, [here](https://github.com/FortAwesome/Font-Awesome):
-
-```
-npm install --save @fortawesome/fontawesome-free
-
 ```
 
 Run the application:
